@@ -3,7 +3,7 @@ import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 public class Item implements Ingredient {
 
@@ -186,6 +186,7 @@ public class Item implements Ingredient {
 		if (this.buildsInto.size() == 0) {
 			return returnValue;
 		}
+		
 		String currentLine = "Builds To: ";
 		int counter = 0;
 		for (Item item : this.buildsInto) {

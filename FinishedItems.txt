@@ -55,6 +55,7 @@ Heart Eater
 --------------------------------------------------------------------------------------------------------------
 3 Attack
 Heart Crystal
+1 Gold
 + STACKING HEALTH (2) : Every ability or basic attack you do grants you a permanent + 1 Health.
 + BLEEDING EDGE : + 1 Attack for every 10 Health.
 

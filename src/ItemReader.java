@@ -1,3 +1,4 @@
+
 import java.awt.image.BufferedImage;
 import java.io.BufferedReader;
 import java.io.File;
@@ -124,6 +125,7 @@ public class ItemReader {
 	private Item parseIngredient(String ingredientName) {
 		for (Item item : ItemReader.allItems) {
 			if (item.getName().equals(ingredientName)) {
+				System.out.println("Ingredient '" + ingredientName + "' found.");
 				return item;
 			}
 		}

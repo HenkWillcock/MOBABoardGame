@@ -12,11 +12,11 @@ public class Main {
 			renderer.saveImageFromItem(item);
 		}
 		for(Item item: builtItems) {
-			//System.out.println(item.getDescription());
+			System.out.println(item.getDescription());
 			renderer.saveImageFromItem(item);
 		}
 		for(Item item: finishedItems) {
-			//System.out.println(item.getDescription());
+			System.out.println(item.getDescription());
 			renderer.saveImageFromItem(item);
 		}
 	}

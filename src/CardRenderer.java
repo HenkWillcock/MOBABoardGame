@@ -2,7 +2,7 @@ import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;
-import java.awt.image.ColorModel;
+import java.awt.image.*;
 import java.awt.image.WritableRaster;
 import java.io.File;
 import java.io.IOException;
