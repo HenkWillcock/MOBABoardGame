@@ -46,6 +46,9 @@ Crit chance determines your chance of landing a critical hit out of 10. Critical
 **Speed**
 Speed determines how far you can move. You start the game with 5 speed.
 
+**Range**
+Range determines how far you can basic attack.
+
 **Magic**
 Magic determines how many spells you can cast per turn.
 
