@@ -54,8 +54,8 @@ Magic determines how many spells you can cast per turn.
 
 ## Earning Gold
 
-**Minion** = 1 Gold
-**Wolf** = 1 Gold
+* Minion = 1 Gold
+* Wolf = 1 Gold
 **Player** = 3 Gold
 **First Blood** = 4 Gold
 **Tower** = 5 Gold
