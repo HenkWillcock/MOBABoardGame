@@ -9,8 +9,10 @@ Every player restores 1 health, or more if they have health regen items.
 **Reduce Cooldowns**
 Remove a number of cooldown tokens equal to your magic level from your active spells.
 
-**Respawn a Wolf**
-Randomly respawn 1 of the 4 wolves.
+**Respawn a Monster**
+Roll a 6 sided dice, each number correspondes to one of the 6 monsters (4 wolves and 2 dragons). If the number rolled is a dead monster, respawn it. Otherwise do nothing. 
+
+(This is good because it makes it more likely things will respawn the more are dead.)
 
 **Move, Attack & Cast Spells**
 In order of highest speed, players move their champions, can do a basic attack and cast spells which are off cooldown in any order. 
