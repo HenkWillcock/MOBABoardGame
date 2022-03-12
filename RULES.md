@@ -1,3 +1,9 @@
+## Setup
+
+* Towers are represented by pawns.
+* Rook, Knight, and Bishop represent 3 champions.
+* King is your base.
+
 ## Turn Phases
 
 **Gold Income**
@@ -29,7 +35,7 @@ Players may equip new active spells, but they can’t have more than 3 at a time
 **Use Stores**
 Side lane stores - Buy basic items.
 Base stores - Buy basic items and build advanced items.
-Jungle stores - Buy spells.
+Jungle stores - Only build advanced items.
 
 ## Stats
 
@@ -52,7 +58,7 @@ Speed determines how far you can move. You start the game with 5 speed.
 Range determines how far you can basic attack.
 
 **Magic**
-Magic determines how many spells you can cast per turn.
+Magic determines how strong your spells are.
 
 ## Earning Gold
 
@@ -66,22 +72,14 @@ Magic determines how many spells you can cast per turn.
 
 ## Spells
 
-**Flash**
-Cooldown: 10
-Magic Usage: 1
-Instantly dash 5 spaces.
+**Rook**
+* Shield: Block damage points equal to your magic. Target being damaged must be in range.
+* Earthquake: Any opponents within 3 spaces of you don't get to move next turn.
 
-**Stun**
-Cooldown: 10
-Magic Usage: 1
-An opponent within 5 spaces misses their next turn.
+**Knight**
+* Leap: Jump a number of spaces equal to your magic, can go over walls.
+* Stun: An opponent can't move this round, only effective if they haven't moved already.
 
-**Teleport**
-Cooldown: 10
-Magic Usage: 1
-Instead of moving, teleport to a friendly tower.
-
-
-
-
-
+**Bishop**
+* Lightning Bolt: Does magic damage to all opponents in a line with unlimited range.
+* Tornado: Does magic damage to all opponents within 3 spaces of you.
